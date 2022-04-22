@@ -1,0 +1,63 @@
+{
+    "companyDetails": [
+      {
+        "marketType": "Denmark",
+        "companyId": "aad7a630-af1c-4952-9cb4-44b8b847853b",
+        "companyType": [
+          "small",
+          "medium",
+          "large"
+        ],
+        "notifications": [
+          "01/01/2021",
+          "05/01/2021",
+          "10/01/2021",
+          "15/01/2021",
+          "20/01/2021"
+        ]
+      },
+      {
+        "marketType": "Norway",
+        "companyId": "aad7a630-af1c-4952-9cb4-44b8b847853b",
+        "companyType": [
+          "small",
+          "medium",
+          "large"
+        ],
+        "notifications": [
+          "02/01/2021",
+          "06/01/2021",
+          "11/01/2021",
+          "16/01/2021",
+          "18/01/2021",
+          "21/01/2021"
+        ]
+      },
+      {
+        "marketType": "Sweden",
+        "companyId": "aad7a630-af1c-4952-9cb4-44b8b847853b",
+        "companyType": [
+          "small",
+          "medium"
+        ],
+        "notifications": [
+          "02/01/2021",
+          "06/01/2021",
+          "21/01/2021"
+        ]
+      },
+      {
+        "marketType": "Finland",
+        "companyId": "aad7a630-af1c-4952-9cb4-44b8b847853b",
+        "companyType": [
+          "large"
+        ],
+        "notifications": [
+          "02/01/2021",
+          "11/01/2021",
+          "16/01/2021",
+          "21/01/2021"
+        ]
+      }
+    ]
+  }

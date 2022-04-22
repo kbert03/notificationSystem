@@ -1,0 +1,14 @@
+<div class="title">{{title}}</div>
+<div class="container" *ngFor="let companydata of quotes.companyDetails">
+  <div class="header">
+    <h1>Market Type: {{companydata.marketType}}</h1>
+    <h3>Company Type: {{companydata.companyType}}</h3>
+  </div>
+ 
+ <ul class="progressbar" >
+  <ng-container *ngFor="let notificationDate of companydata.notifications">
+    <li class="content"  [ngClass]="{'active': notificationDate <='10/01/2021'}" >{{notificationDate}}</li>
+ 
+</ng-container>
+</ul>
+</div>
